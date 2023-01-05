@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently learning on Back-End Development and ADI<br>💬 Ask me about DSA and Front-End Development<br>⚡ Eat Code Repeat
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvanyu02/) 
 [![](https://visitcount.itsvg.in/api?id=Bhuvanyu02&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -21,4 +20,4 @@
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bhuvanyu02&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bhuvanyu02&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
