@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Bhuvanyu Guru
 
-- 🌱 I’m currently learning Back-End Development and ADI 
+- 🌱 I’m currently learning Back-End Development
 - 💬 Ask me about Front-End Development and DSA 
 - ⚡ Fun fact: EAT SLEEP CODE REPEAT 
 
@@ -13,8 +13,5 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Bhuvanyu02)  
 
-![Profile views](https://gpvc.arturio.dev/bhuvanyu02)  
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bhuvanyu02&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
